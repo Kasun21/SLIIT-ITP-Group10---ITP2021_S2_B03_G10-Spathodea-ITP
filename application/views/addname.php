@@ -1,4 +1,4 @@
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
 <!DOCTYPE html>
 <html>
 
@@ -42,7 +42,7 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
       </div>
 
       <div class="form-group">
-        <button type="submit" class="btn btn-success">Add Name & email</button>
+        <button type="submit" class="btn btn-success">Add Name & emaileeeeeeeee</button>
       </div>
     </form>
   </div>
